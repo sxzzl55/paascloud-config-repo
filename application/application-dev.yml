@@ -73,9 +73,9 @@ paascloud:
       expiredRemainMinutes: 20
       expiredMinutes: 120
   mail:
-    host: smtp.sina.com
-    username: 'your email address'
-    password: 'your email password'
+    host: smtp.mxhichina.com
+    username: postmaster@sx55.shop
+    password: Zzzl627131
     test-connection: false
     properties:
       mail:
